@@ -4,8 +4,6 @@
 
 [![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesxavier23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesxavier23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block">
